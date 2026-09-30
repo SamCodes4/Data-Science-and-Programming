@@ -2,9 +2,9 @@
 Open Source tools for Data Science Coursework
 ## Student Information
 **Name:** Samwel Onyango
-**Unit:**Open Source tools for Data Science
+**Unit**Open Source tools for Data Science
 **Course:** BSc. Data Science
-**Year:** 1.1
+**Year:** 1
 **Institution:** The Cooperative University of Kenya (CUK)
 ## Project
 ### C Programming Calculator
